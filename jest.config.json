@@ -1,0 +1,13 @@
+{
+  "testTimeout": 50000,
+    "reporters" : [
+    "default",
+    ["./node_modules/jest-html-reporters", {
+      "publicPath": "report",
+      "filename": "index.html",
+      "pageTitle": "Jest TA Report",
+      "expand": true,
+      "openReport": true
+      }]
+  ]
+}

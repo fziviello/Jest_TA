@@ -1,0 +1,13 @@
+{
+    "basePath":"http://www.google.com",
+    "email":"eciro062@gmail.com",
+    "psw":"test062!",
+    "popUpID":"L2AGLb",
+    "btnSigIn":"//*[@id=\"gb\"]/div/div[2]/a",
+    "inputEmail":"[type=email]",
+    "inputTel":"[type=tel]",
+    "nextBtn":"span[jsname='V67aGc']",
+    "nextBtn2":"//*[@id=\"passwordNext\"]/div/button/span",
+    "inputPsw": "//*[@id=\"password\"]/div[1]/div/div[1]/input",
+    "searchBar" : "input[name='q']"
+}

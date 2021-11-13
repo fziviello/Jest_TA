@@ -1,0 +1,16 @@
+{
+    "idUsername":"com.ziviello.AutomationTest:id/username",
+    "idPassword":"com.ziviello.AutomationTest:id/password",
+    "idBtnLogin":"com.ziviello.AutomationTest:id/btnLogin",
+    "idBtnReset":"com.ziviello.AutomationTest:id/btnReset",
+    "idWelcomeText":"com.ziviello.AutomationTest:id/txtWelcome",
+    "idErrorMessage" : "android:id/message",
+    "idConfirm"  : "android:id/button1",
+    "idNoConfirm"  : "android:id/button2",
+    "idAddUser" : "com.ziviello.AutomationTest:id/btnAdd",
+    "idEditName" : "com.ziviello.AutomationTest:id/editUsername",
+    "idConfirmAdd" : "com.ziviello.AutomationTest:id/btnDialogAdd",
+    "idBtnElimina" :"com.ziviello.AutomationTest:id/btnReset", 
+    "idUserList" : "com.ziviello.AutomationTest:id/listOfUsers",
+    "idUserText" : "com.ziviello.AutomationTest:id/name"
+}

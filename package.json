@@ -1,0 +1,30 @@
+{
+  "name": "jest_ta",
+  "version": "1.0.0",
+  "description": "Example Jest TA",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "unit": "jest -t unit",
+    "web": "jest -t web",
+    "mobile": "jest -t mobile"
+  },
+  "author": "Fabio Ziviello",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-typescript": "^7.16.0",
+    "@types/jest": "^27.0.2",
+    "appium": "^1.22.0",
+    "jest": "^27.3.1",
+    "jest-html-reporters": "^2.1.6",
+    "typescript": "^4.4.4",
+    "webdriverio": "^7.16.6"
+  },
+  "dependencies": {
+    "chromedriver": "^95.0.0",
+    "file-system": "^2.2.2",
+    "selenium-webdriver": "^4.0.0"
+  }
+}
